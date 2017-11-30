@@ -52,6 +52,15 @@
         }
     ],
     "Wallpapers":[
+    	{
+            "name":"AT - Jake the Dog",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Cartoons/at_jake.png",
+            "thumbnail":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Cartoons/at_jake.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Cartoons"
+        },
         {
             "name":"AT - BMO",
             "author":"ExtraVital_DEV",
@@ -88,14 +97,6 @@
             "name":"AT - Gunter",
             "author":"ExtraVital_DEV",
             "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Cartoons/at_gunter.png",
-            "dimensions":"1440x2560",
-            "copyright":"Credits to its creator",
-            "collections":"Cartoons"
-        },
-        {
-            "name":"AT - Jake the Dog",
-            "author":"ExtraVital_DEV",
-            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Cartoons/at_jake.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
             "collections":"Cartoons"
