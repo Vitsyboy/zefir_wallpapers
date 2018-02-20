@@ -53,10 +53,9 @@
     ],
     "Wallpapers":[
     	{
-            "name":"AT - Jake the Dog",
+            "name":"AT Jake the Dog",
             "author":"ExtraVital_DEV",
             "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Cartoons/at_jake.png",
-            "thumbnail":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Cartoons/at_jake.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
             "collections":"Cartoons"
@@ -438,461 +437,1252 @@
             "collections":"Nextbit"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus Colors 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_colors_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus Colors 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_colors_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus Colors 3",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_colors_c.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 5X Dark 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_five_x_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 5X Dark Blue",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_five_x_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 5X Dark Mint",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_five_x_b_alt.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 5X Color Gradient 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_five_x_c.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 5X Color Gradient 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_five_x_d.png.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 5X Color Gradient 3",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_five_x_e.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 6P Color Gradient 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_gradient_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 6P Color Gradient 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_gradient_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 6P Color Gradient 3",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_gradient_c.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 6P Color Gradient 4",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_gradient_d.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 6P Color Gradient 5",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_gradient_e.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 6P Color Gradient 6",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_gradient_f.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 6P Color Gradient 1",
             "author":"ExtraVital_DEV",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 5X Color Gradient 4",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_gradient_g.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus Color Gradient 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_gradient_h.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus Color Gradient 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_gradient_i.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Black Android M 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Black Android M 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Blue Android M",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_blue.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Black Android M 3",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_c.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Cyan Android M",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_cyan.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Black Android N 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_d.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Android M 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_dark_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Android M 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_dark_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Android M 3",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_dark_c.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Black Android N 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_e.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Black Android N 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_f.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Indigo Android M",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_indigo.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Teal Android M",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_teal.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"White Android M",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_m_white.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Blue Android N",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_n_blue.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Cyan Android N",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_n_cyan.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Android N 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_n_dark_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Android N 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_n_dark_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Indigo Android N",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_n_indigo.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Teal Android N",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_n_teal.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"White Nexus N",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_n_white.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Nexus 6P Color Gradient 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_sixp_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Nexus Color Gradient 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_sixp_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 6P Dark Mint",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_sixp_c.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus 6P Dark Blue",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_sixp_d.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Nexus 6P Color Gradient 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_sixp_e.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Nexus 6P Color Gradient 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_sixp_f.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Nexus 6P Color Gradient 3",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_sixp_g.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Nexus6P Color Gradient 4",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_sixp_h.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Black Nexus X Logo 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_logo_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Black Nexus X Logo 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_logo_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Nexus X Logo 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_logo_dark_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Dark Nexus X Logo 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_logo_dark_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus X Logo Dark-Red 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_mnml_dark_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus X Logo Dark-Red 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_mnml_dark_a_alt.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus X Logo Dark-Mint 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_mnml_dark_b.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus X Logo Dark-Mint 2",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_mnml_dark_b_alt.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"Nexus X Logo Red-Dark 1",
             "author":"ExtraVital_DEV",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_mnml_light_a.png",
             "dimensions":"1440x2560",
             "copyright":"Credits to its creator",
-            "collections":"Cartoons"
+            "collections":"Nexus"
         },
-
+        {
+            "name":"Nexus X Logo Red-Dark 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_mnml_light_a_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Nexus"
+        },
+        {
+            "name":"Nexus X Logo Mint-Dark 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_mnml_light_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Nexus"
+        },
+        {
+            "name":"Nexus X Logo Mint-Dark 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Nexus/nexus_x_mnml_light_b_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Nexus"
+        },
+        {
+            "name":"OnePlus Logo Color Gradient 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"OnePlus Logo Color Gradient 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_a_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Black OnePlus Logo Red 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_black_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Black OnePlus Logo Red 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_black_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Black Never Settle Sign Red 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_black_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Dark OnePlus Logo Red 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_dark_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Dark OnePlus Logo Red 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_dark_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Dark OnePlus Logo Red 3",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_dark_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Dark Never Settle Sign 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_dark_d.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Dark Never Settle Sign 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_dark_e.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Dark Never Settle Sign 3",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_dark_f.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Dark OnePlus Logo Big 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_dark_g.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"OnePlus Logo Red-Dark 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_pixel_style_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"OnePlus Logo Mint-Dark 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_pixel_style_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"OnePlus Logo Dark-Red 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_pixel_style_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"OnePlus Logo Dark-Mint 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_pixel_style_d.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"OnePlus Logo Red-Dark 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_pixel_style_e.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"OnePlus Logo Mint-Dark 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_pixel_style_f.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"OnePlus Logo Dark-Red 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_pixel_style_g.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"OnePlus Logo Dark-Mint 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/OnePlus/oneplus_pixel_style_h.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"OnePlus"
+        },
+        {
+            "name":"Allo 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/allo_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Allo 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/allo_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google Assistant 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/assistant_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google Assistant 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/assistant_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google Assistant 3",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/assistant_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Duo 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/duo_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Duo 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/duo_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google G Logo 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/g_logo_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google G Logo 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/g_logo_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google G Logo 3",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/g_logo_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Monumentum Valley",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/monumentum_valley.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google Play Logo 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/play_logo_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google Play Logo 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/play_logo_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google Play Logo 3",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/play_logo_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Google Play Logo 4",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/play_logo_d.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 3",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 4",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_d.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 5",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_e.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 6",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_f.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 7",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_g.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 8",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_h.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 9",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_i.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 10",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_j.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 11",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_k.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 12",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_l.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 13",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_m.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 14",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_n.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 15",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_o.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 16",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_p.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 17",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_q.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 18",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_r.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 19",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_s.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 20",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_t.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 21",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_u.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 22",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_v.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 23",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_w.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Simpax 24",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/simpax_x.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Blue Stripes",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/stripes_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Pink Black Stripes",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/stripes_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Mint Black Stripes",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/stripes_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Rainbow Stripes",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/stripes_d.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Red Stripes",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/stripes_e.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Sunny Fields 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/weather_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Sunny Fields 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/weather_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Sunny Fields 3",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/weather_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Xmas Stripes",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/xmas_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Xmas Gift",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/xmas_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Xmas Santa's Hat",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/xmas_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Xmas Polar Bear",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/xmas_d.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Xmas Sweater",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Other/xmas_e.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Other"
+        },
+        {
+            "name":"Pixel Dark-Red 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Dark-Red 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_a_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Dark-Mint 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Dark-Mint 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_b_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Back Black",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_back_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Back Red",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_back_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Back White",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_back_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Back Blue",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_back_d.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Red-Dark 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Red-Dark 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_c_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Mint-Dark 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_d.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Mint-Dark 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_d_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Stripes 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_stripes_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Pixel Stripes 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Pixel/pixel_stripes_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Samsung Note Seven 1",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_a.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Samsung"
+        },
+        {
+            "name":"Samsung Note Seven 2",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_a_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Samsung"
+        },
+        {
+            "name":"Samsung Note Seven 3",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_b.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Samsung"
+        },
+        {
+            "name":"Samsung Note Seven 4",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_b_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Samsung"
+        },
+        {
+            "name":"Samsung Note Seven 5",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_c.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Samsung"
+        },
+        {
+            "name":"Samsung Note Seven 6",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_c_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Samsung"
+        },
+        {
+            "name":"Samsung Note Seven 7",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_d.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Samsung"
+        },
+        {
+            "name":"Samsung Note Seven 8",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_d_alt.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Samsung"
+        },
+        {
+            "name":"Samsung Note Seven 9",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_e.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        },
+        {
+            "name":"Samsung Note Seven 10",
+            "author":"ExtraVital_DEV",
+            "url":"https://raw.githubusercontent.com/Vitsyboy/zefir_wallpapers/master/wallpapers/Samsung/note_seven_f.png",
+            "dimensions":"1440x2560",
+            "copyright":"Credits to its creator",
+            "collections":"Pixel"
+        }
     ]
 }
